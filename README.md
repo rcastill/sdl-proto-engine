@@ -1,6 +1,6 @@
 # SDL2 Prototype Engine
 
-Barebones primitives to quickly prototype graphical applications using SDL2. It mainly provides event handling and loop lifecycle.
+Barebone primitives to quickly prototype graphical applications using SDL2. It mainly provides event handling and loop lifecycle.
 
 ## Compilation
 
@@ -21,7 +21,7 @@ It is also useful to install headers/lib in your system:
 $ [sudo] make install
 ```
 
-Remember to check `install_manifest.txt` under sdl-proto-engine/build in case you want to remove installed targets
+Remember to check `install_manifest.txt` under sdl-proto-engine/build in case you want to remove installed targets.
 
 ## Example
 
